@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Codespace-Portfolio-Website/static/css/main.bbbbfa1a.css",
+    "main.js": "/Codespace-Portfolio-Website/static/js/main.66a54bd8.js",
+    "static/js/453.aac68abc.chunk.js": "/Codespace-Portfolio-Website/static/js/453.aac68abc.chunk.js",
+    "static/media/bg_image.webp": "/Codespace-Portfolio-Website/static/media/bg_image.9ca215592e4b860e42ad.webp",
+    "static/media/Projects_image.png": "/Codespace-Portfolio-Website/static/media/Projects_image.766a14a6349ff83c3265.png",
+    "static/media/motion-background.jpg": "/Codespace-Portfolio-Website/static/media/motion-background.162019996b695dde089a.jpg",
+    "static/media/instagram.svg": "/Codespace-Portfolio-Website/static/media/instagram.318e6df2752736d3c45c33aed816ef9f.svg",
+    "static/media/github.svg": "/Codespace-Portfolio-Website/static/media/github.4bc72f28e79178cdc9c76db0b22c501e.svg",
+    "static/media/devdotto.svg": "/Codespace-Portfolio-Website/static/media/devdotto.0ff9f0d7b8ce0b5aa62e2f733495d83b.svg",
+    "index.html": "/Codespace-Portfolio-Website/index.html",
+    "static/media/linkedin.svg": "/Codespace-Portfolio-Website/static/media/linkedin.36bd4fb37078da2bbffc9b70a0acc872.svg",
+    "static/media/twitter.svg": "/Codespace-Portfolio-Website/static/media/twitter.9fc479687bd8af1d4abc8a1fce7dc568.svg",
+    "static/media/youtube.svg": "/Codespace-Portfolio-Website/static/media/youtube.f5a3fbc126791c9789e222f96fca742f.svg",
+    "static/media/medium.svg": "/Codespace-Portfolio-Website/static/media/medium.a73cd7178cc078152fd9eb34bd74f5ac.svg",
+    "static/media/down-arrow.svg": "/Codespace-Portfolio-Website/static/media/down-arrow.91079b27aa77759d539380d0c831ab87.svg",
+    "static/media/envelope.svg": "/Codespace-Portfolio-Website/static/media/envelope.33857507a5ba83c373a8c7d5f0d0c948.svg",
+    "main.bbbbfa1a.css.map": "/Codespace-Portfolio-Website/static/css/main.bbbbfa1a.css.map",
+    "main.66a54bd8.js.map": "/Codespace-Portfolio-Website/static/js/main.66a54bd8.js.map",
+    "453.aac68abc.chunk.js.map": "/Codespace-Portfolio-Website/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbbbfa1a.css",
+    "static/js/main.66a54bd8.js"
+  ]
+}
